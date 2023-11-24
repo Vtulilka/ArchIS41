@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS4\\Server\\Server.csproj": {}
+    "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS41\\Server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS4\\Server\\Server.csproj": {
+    "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS41\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS4\\Server\\Server.csproj",
+        "projectUniqueName": "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS41\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS4\\Server\\Server.csproj",
+        "projectPath": "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS41\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\Виктория\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS4\\Server\\obj\\",
+        "outputPath": "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS41\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

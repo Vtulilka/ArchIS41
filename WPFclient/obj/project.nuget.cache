@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9mCdwymYeygisSGbECqComCdDw0PK2VK2m4vUMKmvvvmGe5GN7Kcz8C9Vn4rkIQva99F++lUBpvJ1YO+pGtPHw==",
+  "dgSpecHash": "gLw3ab47EzqyWJ/LVTtE9SMYa7rm1zXj1jMQ92xyWkXTAzI7hpNhjfDHJXbluvY+nPTLyTdnUUOv7E8W8xpBwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS4\\WPFclient\\WPFclient.csproj",
+  "projectFilePath": "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS41\\WPFclient\\WPFclient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Виктория\\.nuget\\packages\\commonservicelocator\\2.0.2\\commonservicelocator.2.0.2.nupkg.sha512",
     "C:\\Users\\Виктория\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",

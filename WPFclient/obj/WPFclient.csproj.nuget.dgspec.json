@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS4\\WPFclient\\WPFclient.csproj": {}
+    "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS41\\WPFclient\\WPFclient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS4\\WPFclient\\WPFclient.csproj": {
+    "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS41\\WPFclient\\WPFclient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS4\\WPFclient\\WPFclient.csproj",
+        "projectUniqueName": "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS41\\WPFclient\\WPFclient.csproj",
         "projectName": "WPFclient",
-        "projectPath": "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS4\\WPFclient\\WPFclient.csproj",
+        "projectPath": "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS41\\WPFclient\\WPFclient.csproj",
         "packagesPath": "C:\\Users\\Виктория\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS4\\WPFclient\\obj\\",
+        "outputPath": "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS41\\WPFclient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

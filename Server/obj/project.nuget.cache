@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rrb4D7Cg5vn8QPhGJp0uDTe/vFBovRePUB7kZENU3QTi6iUJm7QDWuorSLemFRkGAwTrPegyv1qdesDGDiBvXg==",
+  "dgSpecHash": "mvQZctdB+L2KiPCqOrujilnwhK4W0FePl8eNA/94pkrT8upX4LoqrYZAsymvowmF6f/UsgLDDSlY+1Retsd4mg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS4\\Server\\Server.csproj",
+  "projectFilePath": "C:\\Users\\Виктория\\Desktop\\Study\\Архитектура ИС\\ArchIS41\\Server\\Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Виктория\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Виктория\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
